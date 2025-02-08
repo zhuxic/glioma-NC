@@ -1,0 +1,31 @@
+KAT2A	Type
+0	Grade II
+0	Grade II
+0	Grade II
+6	Grade II
+0	Grade II
+0	Grade II
+0	Grade II
+0	Grade II
+0	Grade II
+0	Grade II
+0	Grade II
+1	Grade II
+7	Grade IV
+3	Grade IV
+0	Grade IV
+6	Grade IV
+0	Grade IV
+3	Grade IV
+7	Grade IV
+7	Grade IV
+6	Grade IV
+0	Grade IV
+7	Grade IV
+6	Grade IV
+0	Grade IV
+6	Grade IV
+7	Grade IV
+2	Grade IV
+0	Grade IV
+
